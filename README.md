@@ -27,14 +27,14 @@ Event Management System, is a console-based C program designed to simplify the o
 · No online database or cloud storage support.<br>
 · Bills and costs are entered manually by the admin.<br>
 · Single-user access at a time (not multi-user supported).<br>
-# ConceptsL:<br>
+# Concepts:<br>
 · Structured programming in C<br>
 · Menu-driven program design<br>
 · Function-based modular approach<br>
 · File-based data persistence<br>
 · Input validation and control flow<br>
 # Author<br>
-1. ** *Orpita Das Sreya* **<br>
+1. *Orpita Das Sreya*<br>
    Undergrad Student at NORTH SOUTH UNIVERSITY<br>
-2. ** *Ipsita Nur Siddiqua* **<br>
+2. *Ipsita Nur Siddiqua*<br>
    Undergrad Student at NORTH SOUTH UNIVERSITY
